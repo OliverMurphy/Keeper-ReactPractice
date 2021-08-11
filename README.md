@@ -1,5 +1,5 @@
 # Keeper-ReactPractice
-The goal of this app was to practice what I learned about the React.js framework. 
+The goal of this app was to practice what I learned about the React.js framework from a Udemy course. 
 
 This webpage lets you add/delete notes using React design principles.
 
